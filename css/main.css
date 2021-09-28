@@ -65,6 +65,7 @@ a {text-decoration: none!important}
   border: none;
   width: 100%;
   padding: 8px 15px;
+  outline: 0
 }
 #searchSubmit {
   border: none;
